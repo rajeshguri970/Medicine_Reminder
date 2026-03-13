@@ -1,0 +1,11 @@
+Keil uVision 5
+Flash Magic
+Proteus 8.11 or later (optional)
+ARM7 LPC2148 Development Board
+20x4 LCD Module
+4x4 Matrix Keypad
+Buzzer
+2 Push Buttons
+Jumper Wires
+Breadboard or custom PCB
+Power Supply 5V
